@@ -27,7 +27,7 @@ By using our Bot, you agree to the terms of this Privacy Policy. If you do not a
    - We use your data (attachments, commands, usernames, user IDs) to process and create texture packs and respond to slash commands.
 
 2. **To Moderate Content and Enforce Guidelines**  
-   - We use logs and uploaded attachments to identify inappropriate or malicious content and may take action (such as blacklisting users) in accordance with our Terms of Service.
+   - We use logs and uploaded attachments to identify inappropriate or malicious content and may take action (such as blacklisting users) in accordance with our [Terms of Service](TOS.md).
 
 3. **To Upload to Roblox**  
    - The Bot may upload user-provided content to Roblox, provided the content meets Roblox’s and our own content requirements.
