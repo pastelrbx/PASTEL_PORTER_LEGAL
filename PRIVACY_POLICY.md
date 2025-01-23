@@ -12,12 +12,12 @@ By using our Bot, you agree to the terms of this Privacy Policy. If you do not a
 ## 2. Information We Collect
 
 1. **User-Provided Information**  
-   - **Attachments and Content:** When you upload files (e.g., `.zip` texture packs), the Bot processes them to create or alter texture packs.  
-   - **Discord User Information:** Discord may share certain information with us when you interact with the Bot. This includes your username, user ID, server ID, and any messages you send to the Bot.
+   - **Attachments and Content:** When you upload files (e.g., `.zip` texture packs), the Bot processes them to create or alter texture packs.
 
 2. **Automatically Collected Information (Logging)**  
    - **Logs:** When you use commands, the Bot may store logs of your actions (which may include user IDs and timestamps) for moderation, debugging, or security purposes.  
-   - **Roblox Upload Logs:** If the Bot uploads any data to Roblox, it may record what was uploaded and by which user ID, in order to enforce content guidelines and maintain a record for moderation.
+   - **Roblox Upload Logs:** If the Bot uploads any data to Roblox, it may record what was uploaded and by which user ID, in order to enforce content guidelines and maintain a record for moderation.  
+   - **Discord User and Server Information:** Discord may share certain information with us when you interact with the Bot. This includes your username, user ID, server ID, and any messages you send to the Bot.
 
 ---
 
