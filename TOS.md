@@ -10,15 +10,15 @@ By using the **Pastel Porter** Discord Bot (the “Bot”), you agree to these T
 ## 2. Description of the Service
 The Bot provides functionalities such as:
 - Processing `.zip` or `.mcpack` files to create or modify texture packs.
-- Logging user actions for moderation and security.
-- Uploading content to Roblox on behalf of users, when enabled.
+- Logging user actions for moderation and security. (see [Privacy Policy](PRIVACY_POLICY.md))
+- Uploading content to Roblox on behalf of users.
 
 ---
 
 ## 3. User Conduct
 
 1. **Compliance with Laws and Discord Policies**  
-   You agree to comply with all applicable laws, [Discord’s Terms of Service](https://discord.com/terms), and these Terms when using the Bot.
+   You agree to comply with all applicable laws, [Discord’s Terms of Service](https://discord.com/terms), [Roblox’s Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use), and these Terms when using the Bot.
 
 2. **Prohibited Content and Activities**  
    You must not use the Bot to create, share, or distribute:
@@ -26,7 +26,7 @@ The Bot provides functionalities such as:
    - Malware, viruses, or any other destructive or harmful code.
 
 3. **Moderation and Enforcement**  
-   We reserve the right to log all user actions involving the Bot. We may ban users who violate these Terms or post inappropriate content without prior notice.
+   We reserve the right to log all user actions involving the Bot. We may blacklist users who violate these Terms or post inappropriate content without prior notice. (see [Privacy Policy](PRIVACY_POLICY.md))
 
 ---
 
@@ -39,7 +39,7 @@ The Bot provides functionalities such as:
    By uploading or using your own content with the Bot, you represent and warrant that you have the necessary rights and permissions. You grant us a non-exclusive, worldwide, royalty-free license to use, modify, and display your content only as necessary to operate and provide the Bot’s services.
 
 3. **Third-Party Content (Roblox, Texture Packs, etc.)**  
-   - You acknowledge that uploading content to Roblox is subject to Roblox’s Terms of Use.  
+   - You acknowledge that uploading content to Roblox is subject to [Roblox’s Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).  
    - We are not responsible for verifying that your content complies with third-party licensing terms.
 
 ---
